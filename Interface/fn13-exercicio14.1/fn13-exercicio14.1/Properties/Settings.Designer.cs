@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace fn13_exercicio14.Properties
+namespace fn13_exercicio14._1.Properties
 {
 
 
